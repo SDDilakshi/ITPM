@@ -1,0 +1,26 @@
+D:\ITPM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ITPM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ITPM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formAddLocation.resources
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formAddLocation.resources
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formManageLocation.resources
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formManageSession.resources
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formTableConsecutive.resources
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formTableSession.resources
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formVisualize.resources
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\3rd yr 1st\ITPM\ITPM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
